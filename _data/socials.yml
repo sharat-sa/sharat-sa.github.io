@@ -4,10 +4,10 @@
 
 # acm_id: # your dl.acm.org/profile/id
 # blogger_url: # your blogger URL
-# bluesky_url: # your bluesky URL
+bluesky_url: notsosharat.bsky.social
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: you@example.com # your email address
+email: g.sharat16@gmail.com # your email address
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
@@ -15,7 +15,7 @@ email: you@example.com # your email address
 # hal_id: # your HAL id (https://hal.science/)
 # ieee_id: # your ieeexplore.ieee.org/author/id
 inspirehep_id: 1010907 # Inspire HEP author ID
-# instagram_id: # your instagram id
+instagram_id: notsosharat
 # kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
@@ -34,7 +34,7 @@ rss_icon: true # comment this line to hide the RSS icon
 scholar_userid: qc6CJjYAAAAJ # your Google Scholar ID
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
-# spotify_id: # your spotify id
+spotify_id: https://open.spotify.com/user/mdgmef8jp8rywh853nn8nxbv7?si=3d5224531f134bc0
 # stackoverflow_id: # your stackoverflow id
 # strava_userid: # your strava user id
 # telegram_username: # your Telegram user name
