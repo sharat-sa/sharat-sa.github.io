@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B209. SSCU</p>
+    <p>B209, SSCU</p>
     <p>Chemical Sciences Building</p>
-    <p>Indian Institute of Science, Bengaluru</p>
+    <p>IISc, Bengaluru</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -29,6 +29,6 @@ latest_posts:
 
 I am a graduate student working with electrochemical analysis (recently - batteries), and love design, literature, technology and journalism. A majority of my published work can be found at <a href='https://manthanmagazine.wordpress.com'>Manthan</a>, with which I was associated with till June 2025 (when I graduated from IISER-Mohali, my alma-mater), and will soon be translating my skills in re-invigorating <a href='https://sites.google.com/view/inventa23/'>Inventa</a>. I am also exceptionally proud of setting up the <a href='https://web.iisermohali.ac.in/web/students/webpages/srmc.html'>Student-Run-Mess</a> at IISER-Mohali.
 <p>
-I am guided by the following principles - sustainable & <i>equitable</i> development, application of the <a href='https://en.wikipedia.org/wiki/Scientific_method'>scientific temper to guide self & society, and free & open science and technology. I love to engage at the intersection of science and society - resulting in my work with policy and science communication. My research interests (and especially why I work materials, can be found here). Outside of lab, you can find me gardening, running, reading, or in the gym. I also love fusion indie music, and recently - rock and alt.
+I am guided by the following principles - sustainable & <i>equitable</i> development, application of the <a href='https://en.wikipedia.org/wiki/Scientific_method'>scientific</a> temper to guide self & society, and free & open science and technology. I love to engage at the intersection of science and society - resulting in my work with policy and science communication. My research interests (and especially why I work materials, can be found here). Outside of lab, you can find me gardening, running, reading, or in the gym. I also love fusion indie music, and recently - rock and alt.
 <p>
 This is the new website, currently under construction, so some things might be broken. Hoping to eventually collate my digital footprint here and put some resources and insights here in due time. You can also check out my visual blog on my <a href='http://instagram.com/notsosharat'>Instagram</a>. Cheers and don't hesistate to reach out for advice or recommendations :). 
