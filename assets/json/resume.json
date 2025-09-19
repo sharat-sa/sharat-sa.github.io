@@ -57,9 +57,7 @@
       "startDate": "2023-05",
       "endDate": "2023-07",
       "summary": "Unravelled the role of iron in bimetallic Ni-Fe catalysts for the Oxygen Evolution Reaction (OER) by study design and systematic physical (XPS) and electrochemical (CP) characterisation, subsequently coupling both via operando Raman spectroscopy[cite: 42].",
-      "highlights": [
-        "Attended the RESOLV summer school[cite: 43]."
-      ]
+      "highlights": ["Attended the RESOLV summer school[cite: 43]."]
     },
     {
       "name": "Indian Institute of Science, Bangalore",
@@ -68,9 +66,7 @@
       "startDate": "2022-05",
       "endDate": "2022-07",
       "summary": "Engineered hermetically sealing polymeric chambers through material simulation and iterative design and testing, enabling the first low-temperature charge transport measurements on mixed ionic-electronic organic transistors in an aqueous environment[cite: 46].",
-      "highlights": [
-        "Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes[cite: 47]."
-      ]
+      "highlights": ["Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes[cite: 47]."]
     },
     {
       "name": "Indian Institute of Technology, Delhi",
@@ -196,63 +192,31 @@
       "name": "Electrochemical Analysis [cite: 59]",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Broadband EIS",
-        "DRT",
-        "KK",
-        "Cell Cycling",
-        "CV",
-        "CP/CA",
-        "CNLS Fitting [cite: 67]"
-      ]
+      "keywords": ["Broadband EIS", "DRT", "KK", "Cell Cycling", "CV", "CP/CA", "CNLS Fitting [cite: 67]"]
     },
     {
       "name": "Materials Characterisation [cite: 59]",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Scanning Acoustic Microscopy (SAM)",
-        "Raman",
-        "IR",
-        "UV-Vis",
-        "AFM-IR [cite: 67]"
-      ]
+      "keywords": ["Scanning Acoustic Microscopy (SAM)", "Raman", "IR", "UV-Vis", "AFM-IR [cite: 67]"]
     },
     {
       "name": "Synthesis [cite: 60]",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Solid-state synthesis",
-        "Spin Casting",
-        "3D Printing",
-        "Glove-box Fabrication [cite: 67]"
-      ]
+      "keywords": ["Solid-state synthesis", "Spin Casting", "3D Printing", "Glove-box Fabrication [cite: 67]"]
     },
     {
       "name": "Computation & Data Analysis [cite: 61]",
       "level": "",
       "icon": "",
-      "keywords": [
-        "COMSOL",
-        "Python",
-        "Julia",
-        "FORTRAN",
-        "Gaussian",
-        "CSD/CCDC [cite: 67]"
-      ]
+      "keywords": ["COMSOL", "Python", "Julia", "FORTRAN", "Gaussian", "CSD/CCDC [cite: 67]"]
     },
     {
       "name": "Software Environments [cite: 61]",
       "level": "",
       "icon": "",
-      "keywords": [
-        "OriginPro",
-        "AutoCAD",
-        "Linux",
-        "IATFX (preferred)",
-        "MS Office [cite: 67]"
-      ]
+      "keywords": ["OriginPro", "AutoCAD", "Linux", "IATFX (preferred)", "MS Office [cite: 67]"]
     }
   ],
   "languages": [],
