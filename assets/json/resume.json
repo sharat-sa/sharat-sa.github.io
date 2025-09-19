@@ -1,263 +1,297 @@
 {
   "basics": {
     "name": "Sharat S.A.",
-    "label": "Materials researcher with a core competency in analytical chemistry and electrochemistry [cite: 5]",
+    "label": "Master of Science in Chemistry and Data Science",
     "image": "",
-    "email": "ms20094@iisermohali.ac.in/g.sharat16@gmail.com [cite: 4]",
-    "phone": "+91720-687-7051 [cite: 4]",
-    "url": "",
-    "summary": "Materials researcher with four years of experience across multiple cell chemistries, electrocatalysis and organic transistors from simulation to synthesis[cite: 5, 6]. Currently working with All-Solid-State Batteries (ASSBs)[cite: 7]. Believes in bridging science and society through outreach and policy research[cite: 7].",
+    "email": "ms20094@iisermohali.ac.in/g.sharat16@gmail.com",
+    "phone": "+91720-687-7051",
+    "url": "sharat-sa.github.io",
+    "summary": "Materials researcher with a core competency in analytical chemistry and electrochemistry. Four years of experience across multiple cell chemistries, electrocatalysis and organic transistors from simulation to synthesis. Currently working with ASSBs. Believe in bridging science and society through outreach and policy research.",
     "location": {
-      "address": "",
+      "address": "B209, New Chemical Sciences Building, IISc",
       "postalCode": "",
-      "city": "",
-      "countryCode": "",
-      "region": ""
+      "city": "Bengaluru",
+      "countryCode": "IN",
+      "region": "Karnataka"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "sharat-sa",
+        "url": "https://www.linkedin.com/in/sharat-sa/"
+      }
+    ]
   },
   "work": [
     {
       "name": "Indian Institute of Science Bangalore",
-      "position": "Graduate RAship [cite: 29]",
-      "url": "",
+      "position": "Graduate RAship",
+      "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2025-09",
       "endDate": "Present",
-      "summary": "Compiling data, literature review and theoretical calculations for a manuscript in preparation[cite: 29].",
+      "summary": "Interfacial charge transfer kinetics study with Prof Naga Phani Aetukuri",
       "highlights": [
-        "Executing cycling-EIS-DRT tests to investigate Li/LLZO interface [cite: 30]",
-        "Designing custom 3-electrode Li-ion cells [cite: 30]"
+        "Compiling data, literature review and theoretical calculations for a manuscript in preparation.",
+        "Executing cycling-EIS-DRT tests to investigate Li/LLZO interface.",
+        "Designing custom 3-electrode Li-ion cells."
       ]
     },
     {
       "name": "IISER, Mohali",
-      "position": "MS Thesis [cite: 32]",
-      "url": "",
+      "position": "MS Thesis",
+      "url": "https://web.iisermohali.ac.in/Faculty/angshurc/index.php",
       "startDate": "2025-02",
       "endDate": "2025-03",
-      "summary": "Isolated the stabilisation effect of weak F-bonding in fluorinated sp² molecules by modelling CF- interactions using Gaussian09 on real molecules from the Cambridge Structural Database[cite: 32]."
+      "summary": "Computational study of CF-π interactions with Prof Angshuman Roy Choudhary",
+      "highlights": [
+        "Isolated the stabilisation effect of weak F-bonding in fluorinated sp2 molecules by modelling CF-π interactions using Gaussian09 on real molecules from the Cambridge Structural Database."
+      ]
     },
     {
       "name": "Indian Institute of Science Bangalore",
-      "position": "MS Thesis [cite: 34]",
-      "url": "",
+      "position": "MS Thesis",
+      "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2024-06",
       "endDate": "2025-01",
-      "summary": "Acoustic and impedance analysis of solid electrolytes[cite: 33].",
+      "summary": "Acoustic and impedance analysis of solid electrolytes with Prof Naga Phani Aetukuri",
       "highlights": [
-        "Established a broad-band EIS-DRT setup for solid electrolytes (LLZO, LPSCI), leading to quantifiable improvements in interfacial stability in half-cell and bilayer configurations[cite: 35].",
-        "Evaluated improvements to LLZO synthesis using DRT, demonstrating limitations to achieving high density LLZO and highlighting the critical role of grain-boundary phases in bulk and interfacial electro-mechanics[cite: 36].",
-        "Conducted theoretical and experimental investigations into probe design for acoustic analysis of solid-state cells[cite: 37]."
+        "Established a broad-band EIS-DRT setup for solid electrolytes (LLZO, LPSCI), leading to quantifiable improvements in interfacial stability in half-cell and bilayer configurations.",
+        "Evaluated improvements to LLZO synthesis using DRT, demonstrating limitations to achieving high density LLZO and highlighting the critical role of grain-boundary phases in bulk and interfacial electro-mechanics.",
+        "Conducted theoretical and experimental investigations into probe design for acoustic analysis of solid-state cells."
       ]
     },
     {
       "name": "Max Planck Institute für Eisenforschung, Düsseldorf",
-      "position": "Internship [cite: 40]",
-      "url": "",
+      "position": "Internship",
+      "url": "https://www.mpie.de/4102551/Spectroscopy-at-Electrochemical-Interfaces",
       "startDate": "2023-05",
       "endDate": "2023-07",
-      "summary": "Unravelled the role of iron in bimetallic Ni-Fe catalysts for the Oxygen Evolution Reaction (OER) by study design and systematic physical (XPS) and electrochemical (CP) characterisation, subsequently coupling both via operando Raman spectroscopy[cite: 42].",
-      "highlights": ["Attended the RESOLV summer school[cite: 43]."]
+      "summary": "Understanding bimetallic OER catalysis with Dr Martin Rabe",
+      "highlights": [
+        "Unravelled the role of iron in bimetallic Ni-Fe catalysts for the Oxygen Evolution Reaction (OER) by study design and systematic physical (XPS) and electrochemical (CP) characterisation, subsequently coupling both via operando Raman spectroscopy.",
+        "Attended the RESOLV summer school."
+      ]
     },
     {
       "name": "Indian Institute of Science, Bangalore",
-      "position": "Internship [cite: 45]",
-      "url": "",
+      "position": "Internship",
+      "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2022-05",
       "endDate": "2022-07",
-      "summary": "Engineered hermetically sealing polymeric chambers through material simulation and iterative design and testing, enabling the first low-temperature charge transport measurements on mixed ionic-electronic organic transistors in an aqueous environment[cite: 46].",
-      "highlights": ["Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes[cite: 47]."]
+      "summary": "Low-temperature charge transport study with Prof Naga Phani Aetukuri",
+      "highlights": [
+        "Engineered hermetically sealing polymeric chambers through material simulation and iterative design and testing, enabling the first low-temperature charge transport measurements on mixed ionic-electronic organic transistors in an aqueous environment.",
+        "Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes."
+      ]
     },
     {
       "name": "Indian Institute of Technology, Delhi",
-      "position": "Remote Project [cite: 49]",
-      "url": "",
+      "position": "Remote Project",
+      "url": "https://cart.iitd.ac.in/",
       "startDate": "2021-08",
       "endDate": "2021-09",
-      "summary": "Reading project with simulation work to set up the pseudo-2D model in COMSOL Multiphysics for calculating capacity loss in Li-ion cells based on SEI growth towards a large-model study[cite: 49]."
+      "summary": "Simulating Li-Ion Batteries with Prof Akhil Garg",
+      "highlights": [
+        "Reading project with simulation work to set up the pseudo-2D model in COMSOL Multiphysics for calculating capacity loss in Li-ion cells based on SEI growth towards a large-model study."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Student Representative Council [cite: 70]",
-      "location": "",
-      "position": "Elected student council member and academic liaison [cite: 72]",
-      "url": "",
+      "organization": "Student Representative Council",
+      "location": "IISER Mohali",
+      "position": "Elected student council member and academic liaison",
+      "url": "https://web.iisermohali.ac.in/web/students/webpages/src.html",
       "startDate": "2024",
       "endDate": "2025",
-      "summary": "Represented ~250 peers as an elected student council member and academic liaison in administrative meetings[cite: 72]."
+      "summary": "Represented ~250 peers as an elected student council member and academic liaison in administrative meetings.",
+      "highlights": []
     },
     {
-      "organization": "Student Run Mess [cite: 73]",
-      "location": "",
-      "position": "President of the first council [cite: 74]",
-      "url": "",
+      "organization": "Student Run Mess",
+      "location": "IISER Mohali",
+      "position": "President of the first council",
+      "url": "https://web.iisermohali.ac.in/web/students/webpages/srmc2223.html",
       "startDate": "2022",
       "endDate": "2025",
-      "summary": "Directed the cooperative mess since its inception, serving as President of the first council[cite: 74]. Designed its fiscal structure, constitution and operational policies, growing annual revenue to 4 Crore INR while supervising 20+ employees, managing a team of 14 council members and handling accounts, logistics and vendor negotiations[cite: 75]."
+      "summary": "Setup the cooperative mess as President of the first council, member of first audit, Chairperson of first Advisory",
+      "highlights":  [
+        "Directed the cooperative mess since its inception, serving as President of the first council.",
+       "Designed its fiscal structure, constitution and operational policies, growing annual revenue to 4 Crore INR while supervising 20+ employees, managing a team of 14 council members and handling accounts, logistics and vendor negotiations."]
     },
     {
-      "organization": "Manthan Magazine [cite: 76]",
-      "location": "",
-      "position": "Managing Editor [cite: 77]",
-      "url": "",
+      "organization": "Manthan Magazine",
+      "location": "IISER Mohali",
+      "position": "Managing Editor",
+      "url": "https://manthanmagazine.wordpress.com/",
       "startDate": "2021",
       "endDate": "2023",
-      "summary": "Served as Junior Editor (2021-2022) and Managing Editor (2022-2023)[cite: 77]. Conceptualised and designed the institute's first student newspaper, heading design[cite: 77]."
+      "summary": "Served as Junior Editor (2021-2022) and Managing Editor (2022-2023). Conceptualised and designed the institute's first student newspaper, heading design.",
+      "highlights": []
     }
   ],
   "education": [
     {
-      "institution": "Indian Institute of Science Education and Research, Mohali (India) [cite: 8]",
-      "location": "",
-      "url": "",
-      "area": "Chemistry Major, Data Science Minor [cite: 8]",
-      "studyType": "Integrated BS-MS [cite: 8]",
-      "startDate": "",
+      "institution": "Indian Institute of Science Education and Research, Mohali (India)",
+      "location": "Mohali, Punjab",
+      "url": "https://www.iisermohali.ac.in/",
+      "area": "Chemistry Major, Data Science Minor",
+      "studyType": "Integrated BS-MS",
+      "startDate": "2020-11",
       "endDate": "2025",
-      "score": "8.2/10 CGPA [cite: 12]",
+      "score": "8.2/10 CGPA",
       "courses": [
-        "Chemistry of Materials [cite: 63]",
-        "Concepts in Nanomaterials [cite: 64]",
-        "Electrochemistry [cite: 65]",
-        "Analytical Chemistry & Lab [cite: 68]",
-        "Molecular Spectroscopy [cite: 68]",
-        "Main Group Chemistry [cite: 69]",
-        "Statistical Thermodynamics [cite: 71]",
-        "Numerical Chemistry [cite: 71]",
-        "Electronics, Electromagnetism [cite: 71]"
+        "Chemistry of Materials",
+        "Concepts in Nanomaterials",
+        "Electrochemistry",
+        "Analytical Chemistry & Lab",
+        "Molecular Spectroscopy",
+        "Main Group Chemistry",
+        "Statistical Thermodynamics",
+        "Numerical Chemistry",
+        "Electronics, Electromagnetism"
       ]
     },
     {
-      "institution": "Saraswati Public School, Jagadhri (India) [cite: 9]",
-      "location": "",
-      "url": "",
-      "area": "Physics, Chemistry & Mathematics [cite: 9]",
-      "studyType": "CBSE Grade 12 [cite: 9]",
+      "institution": "Saraswati Public School, Jagadhri (India)",
+      "location": "Jagadhri, Haryana",
+      "url": "http://spsjgd.com/",
+      "area": "Physics, Chemistry & Mathematics",
+      "studyType": "CBSE Grade 12",
       "startDate": "",
-      "endDate": "2020",
-      "score": "96% Marks [cite: 13]",
+      "endDate": "2020-08",
+      "score": "96% Marks",
       "courses": []
     }
   ],
   "awards": [
     {
-      "title": "Leadership and Outreach Award [cite: 20]",
+      "title": "Leadership and Outreach Award",
       "date": "2025",
-      "awarder": "Alumni Association, IISER Mohali [cite: 21]",
+      "awarder": "Alumni Association, IISER Mohali",
       "url": "",
-      "summary": "Awarded to one BS-MS graduate for leadership, efforts towards outreach and other extracurriculars[cite: 23]."
+      "summary": "Awarded to one BS-MS graduate for leadership, efforts towards outreach and other extracurriculars."
     },
     {
-      "title": "Undergraduate Exchange Scholarship [cite: 24]",
+      "title": "Undergraduate Exchange Scholarship",
       "date": "2023",
-      "awarder": "RESOLV, Ruhr University Bochum [cite: 22]",
+      "awarder": "RESOLV, Ruhr University Bochum",
       "url": "",
-      "summary": "Scholarship to pursue a 3 month research project in Germany; 1 of 7 students selected globally[cite: 24]."
+      "summary": "Scholarship to pursue a 3 month research project in Germany; 1 of 7 students selected globally."
     },
     {
-      "title": "INSPIRE - Scholarship for Higher Education (SHE) [cite: 25]",
+      "title": "INSPIRE - Scholarship for Higher Education (SHE)",
       "date": "2020",
-      "awarder": "DST, Govt of India [cite: 26]",
+      "awarder": "DST, Govt of India",
       "url": "",
-      "summary": "Five-year scholarship awarded to top 1% of Grade 12 graduates for higher education in scientific research[cite: 27]."
+      "summary": "Five-year scholarship awarded to top 1% of Grade 12 graduates for higher education in scientific research."
     }
   ],
   "certificates": [],
   "publications": [
     {
-      "name": "Acoustic and Impedance Analysis of Solid Electrolytes for All-Solid-State Batteries [cite: 14]",
-      "publisher": "DSpace@IISERMohali [cite: 14]",
+      "name": "Acoustic and Impedance Analysis of Solid Electrolytes for All-Solid-State Batteries",
+      "publisher": "DSpace@IISERMohali",
       "releaseDate": "2025",
       "url": "",
-      "summary": "Master's thesis by Sharat SA under supervision of Naga Phani Aetukuri and Angshuman Roy Choudhary[cite: 14]. [Embargoed until April 2028] [cite: 14]"
+      "summary": "Master's thesis by Sharat SA under supervision of Naga Phani Aetukuri and Angshuman Roy Choudhary. [Embargoed until April 2028]"
     },
     {
-      "name": "In-situ Raman investigations of Fe-coated Ni OER electrodes [cite: 15]",
-      "publisher": "Advanced Energy and Sustainability Research [cite: 16]",
+      "name": "In-situ Raman investigations of Fe-coated Ni OER electrodes",
+      "publisher": "Advanced Energy and Sustainability Research",
       "releaseDate": "Under Review",
       "url": "https://doi.org/10.26434/chemrxiv-2024-6jbn4",
-      "summary": "Authors: Efthimiopoulos I, Zhang S, Samisereht N. Sharat SA, Ebbinghaus P, Mehrmann C, et al. [cite: 15]"
+      "summary": "Authors: Efthimiopoulos 1, Zhang S, Samisereht N. Sharat SA, Ebbinghaus P, Mehrmann C, et al."
     },
     {
-      "name": "Shouldn't charge transfer resistance be lower for solid-state electrolytes? [cite: 17]",
+      "name": "Shouldn't charge transfer resistance be lower for solid-state electrolytes?",
       "publisher": "",
       "releaseDate": "In preparation",
       "url": "",
-      "summary": "Authors: Rana AK, Sharat SA, Maity S, Aetukuri NP, et al. [cite: 17]"
+      "summary": "Authors: Rana AK, Sharat SA, Maity S, Aetukuri NP, et al."
     }
   ],
   "skills": [
     {
-      "name": "Electrochemical Analysis [cite: 59]",
+      "name": "Electrochemical Analysis",
       "level": "",
       "icon": "",
-      "keywords": ["Broadband EIS", "DRT", "KK", "Cell Cycling", "CV", "CP/CA", "CNLS Fitting [cite: 67]"]
+      "keywords": [
+        "Broadband EIS", "DRT", "KK", "Cell Cycling", "CV", "CP/CA", "CNLS Fitting"
+      ]
     },
     {
-      "name": "Materials Characterisation [cite: 59]",
+      "name": "Materials Characterisation",
       "level": "",
       "icon": "",
-      "keywords": ["Scanning Acoustic Microscopy (SAM)", "Raman", "IR", "UV-Vis", "AFM-IR [cite: 67]"]
+      "keywords": [
+        "Scanning Acoustic Microscopy (SAM)", "Raman", "IR", "UV-Vis", "AFM-IR"
+      ]
     },
     {
-      "name": "Synthesis [cite: 60]",
+      "name": "Synthesis",
       "level": "",
       "icon": "",
-      "keywords": ["Solid-state synthesis", "Spin Casting", "3D Printing", "Glove-box Fabrication [cite: 67]"]
+      "keywords": [
+        "Solid-state synthesis", "Spin Casting", "3D Printing", "Glove-box Fabrication"
+      ]
     },
     {
-      "name": "Computation & Data Analysis [cite: 61]",
+      "name": "Computation & Data Analysis",
       "level": "",
       "icon": "",
-      "keywords": ["COMSOL", "Python", "Julia", "FORTRAN", "Gaussian", "CSD/CCDC [cite: 67]"]
+      "keywords": [
+        "COMSOL", "Python", "Julia", "FORTRAN", "Gaussian", "CSD/CCDC"
+      ]
     },
     {
-      "name": "Software Environments [cite: 61]",
+      "name": "Software Environments",
       "level": "",
       "icon": "",
-      "keywords": ["OriginPro", "AutoCAD", "Linux", "IATFX (preferred)", "MS Office [cite: 67]"]
+      "keywords": [
+        "OriginPro", "AutoCAD", "Linux", "IATFX (preferred)", "MS Office"
+      ]
     }
   ],
   "languages": [],
   "interests": [],
   "references": [
     {
-      "name": "Prof Naga Phani Aetukuri [cite: 80]",
+      "name": "Prof Naga Phani Aetukuri",
       "icon": "",
-      "reference": "Thesis and Internship Supervisor, Associate Professor, IISc, phani@iisc.ac.in [cite: 80]"
+      "reference": "Thesis and Internship Supervisor, Associate Professor, IISc, phani@iisc.ac.in"
     },
     {
-      "name": "Dr Martin Rabe [cite: 81]",
+      "name": "Dr Martin Rabe",
       "icon": "",
-      "reference": "Internship Supervisor, Group Leader, MPI SusMat, m.rabe@mpi-susmat.de [cite: 81]"
+      "reference": "Internship Supervisor, Group Leader, MPI SusMat, m.rabe@mpi-susmat.de"
     },
     {
-      "name": "Prof Ujjal K. Gautam [cite: 83]",
+      "name": "Prof Ujjal K. Gautam",
       "icon": "",
-      "reference": "Instructor and Thesis Evaluator, Associate Professor, IISER-M, ujjalgautam@iisermohali.ac.in [cite: 83]"
+      "reference": "Instructor and Thesis Evaluator, Associate Professor, IISER-M, ujjalgautam@iisermohali.ac.in"
     }
   ],
   "projects": [
     {
-      "name": "BS-MS Thesis Poster Presentation [cite: 51]",
-      "summary": "Poster titled \"Even Solid-State Batteries Need to Relax\" presented at IISER-Mohali[cite: 52, 53].",
+      "name": "BS-MS Thesis Poster Presentation",
+      "summary": "Poster \"Even Solid-State Batteries Need to Relax\" at IISER-Mohali.",
       "highlights": [],
       "startDate": "2025",
       "endDate": "2025",
       "url": ""
     },
     {
-      "name": "Solid State and Structural Chemistry Unit Day Presentation [cite: 54]",
-      "summary": "Oral Presentation titled \"Using Impedance Spectroscopy to study interfaces in Solid-State Batteries\" at the Indian Institute of Science[cite: 55, 54].",
+      "name": "Solid State and Structural Chemistry Unit Day",
+      "summary": "Oral Presentation \"Using Impedance Spectroscopy to study interfaces in Solid-State Batteries\" at the Indian Institute of Science.",
       "highlights": [],
       "startDate": "2024",
       "endDate": "2024",
       "url": ""
     },
     {
-      "name": "RESOLV UEx Presentation [cite: 56]",
-      "summary": "Oral Presentation titled \"Understanding the mechanism behind Ni-Fe Bimetallic Catalysis in OER\" at Ruhr University Bochum[cite: 57, 56].",
+      "name": "RESOLV UEx Presentation",
+      "summary": "Oral Presentation \"Understanding the mechanism behind Ni-Fe Bimetallic Catalysis in OER\" at Ruhr University Bochum.",
       "highlights": [],
       "startDate": "2023",
       "endDate": "2023",
