@@ -115,9 +115,10 @@
       "startDate": "2022",
       "endDate": "2025",
       "summary": "Setup the cooperative mess as President of the first council, member of first audit, Chairperson of first Advisory",
-      "highlights":  [
+      "highlights": [
         "Directed the cooperative mess since its inception, serving as President of the first council.",
-       "Designed its fiscal structure, constitution and operational policies, growing annual revenue to 4 Crore INR while supervising 20+ employees, managing a team of 14 council members and handling accounts, logistics and vendor negotiations."]
+        "Designed its fiscal structure, constitution and operational policies, growing annual revenue to 4 Crore INR while supervising 20+ employees, managing a team of 14 council members and handling accounts, logistics and vendor negotiations."
+      ]
     },
     {
       "organization": "Manthan Magazine",
@@ -216,41 +217,31 @@
       "name": "Electrochemical Analysis",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Broadband EIS", "DRT", "KK", "Cell Cycling", "CV", "CP/CA", "CNLS Fitting"
-      ]
+      "keywords": ["Broadband EIS", "DRT", "KK", "Cell Cycling", "CV", "CP/CA", "CNLS Fitting"]
     },
     {
       "name": "Materials Characterisation",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Scanning Acoustic Microscopy (SAM)", "Raman", "IR", "UV-Vis", "AFM-IR"
-      ]
+      "keywords": ["Scanning Acoustic Microscopy (SAM)", "Raman", "IR", "UV-Vis", "AFM-IR"]
     },
     {
       "name": "Synthesis",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Solid-state synthesis", "Spin Casting", "3D Printing", "Glove-box Fabrication"
-      ]
+      "keywords": ["Solid-state synthesis", "Spin Casting", "3D Printing", "Glove-box Fabrication"]
     },
     {
       "name": "Computation & Data Analysis",
       "level": "",
       "icon": "",
-      "keywords": [
-        "COMSOL", "Python", "Julia", "FORTRAN", "Gaussian", "CSD/CCDC"
-      ]
+      "keywords": ["COMSOL", "Python", "Julia", "FORTRAN", "Gaussian", "CSD/CCDC"]
     },
     {
       "name": "Software Environments",
       "level": "",
       "icon": "",
-      "keywords": [
-        "OriginPro", "AutoCAD", "Linux", "IATFX (preferred)", "MS Office"
-      ]
+      "keywords": ["OriginPro", "AutoCAD", "Linux", "IATFX (preferred)", "MS Office"]
     }
   ],
   "languages": [],
