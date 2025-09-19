@@ -1,7 +1,7 @@
 ---
 layout: book-shelf
 title: Recommendations
-permalink: /recos/
+permalink: /Recos/
 nav: true
 nav_order: 7
 ---

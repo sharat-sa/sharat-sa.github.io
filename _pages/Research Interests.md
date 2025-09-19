@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /interests/
+permalink: /Interests/
 title: Research Interests
 description: Research Interests
 nav: true
