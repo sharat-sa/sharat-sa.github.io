@@ -85,7 +85,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name: Insights # blog_name will be displayed in your blog page
 blog_description: A collection of my thoughts
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -262,8 +262,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [SA]
+  first_name: [Sharat]
 
   style: apa
   locale: en

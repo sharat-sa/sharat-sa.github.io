@@ -1,200 +1,269 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
-    "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
-    "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "name": "Sharat S.A.",
+    "label": "Materials researcher with a core competency in analytical chemistry and electrochemistry.",
+    "email": "ms20094@iisermohali.ac.in / g.sharat16@gmail.com",
+    "phone": "+91 720-687-7051",
+    "url": "",
+    [cite_start]"summary": "Materials researcher with a core competency in analytical chemistry and electrochemistry[cite: 5]. [cite_start]Four years of experience across multiple cell chemistries, electrocatalysis and organic transistors from simulation to synthesis[cite: 6]. Currently working with ASSBs. [cite_start]Believe in bridging science and society through outreach and policy research[cite: 7].",
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Indian Institute of Science Bangalore",
+      "position": "Graduate RAship",
+      "startDate": "2025-09",
+      "endDate": "Present",
+      [cite_start]"summary": "Interfacial charge transfer kinetics study[cite: 28].",
+      "highlights": [
+        [cite_start]"Compiling data, literature review and theoretical calculations for a manuscript in preparation[cite: 29].",
+        "Executing cycling-EIS-DRT tests to investigate Li/LLZO interface. [cite_start]Designing custom 3-electrode Li-ion cells[cite: 30]."
+      ]
+    },
+    {
+      "name": "IISER, Mohali",
+      "position": "MS Thesis",
+      "startDate": "2025-02",
+      "endDate": "2025-03",
+      [cite_start]"summary": "Computational study of CF- interactions[cite: 31].",
+      "highlights": [
+        [cite_start]"Isolated the stabilisation effect of weak F-bonding in fluorinated sp2 molecules by modelling CF- interactions using Gaussian09 on real molecules from the Cambridge Structural Database[cite: 32]."
+      ]
+    },
+    {
+      "name": "Indian Institute of Science Bangalore",
+      "position": "MS Thesis",
+      "startDate": "2024-06",
+      "endDate": "2025-01",
+      [cite_start]"summary": "Acoustic and impedance analysis of solid electrolytes[cite: 33].",
+      "highlights": [
+        [cite_start]"Established a broad-band EIS-DRT setup for solid electrolytes (LLZO, LPSCI), leading to quantifiable improvements in interfacial stability in half-cell and bilayer configurations[cite: 35].",
+        [cite_start]"Evaluated improvements to LLZO synthesis using DRT, demonstrating limitations to achieving high density LLZO and highlighting the critical role of grain-boundary phases in bulk and interfacial electro-mechanics[cite: 36].",
+        [cite_start]"Conducted theoretical and experimental investigations into probe design for acoustic analysis of solid-state cells[cite: 37]."
+      ]
+    },
+    {
+      "name": "Max Planck Institute für Eisenforschung, Düsseldorf",
+      "position": "Internship",
+      "startDate": "2023-05",
+      "endDate": "2023-07",
+      [cite_start]"summary": "Understanding bimetallic OER catalysis[cite: 38].",
+      "highlights": [
+        [cite_start]"Unravelled the role of iron in bimetallic Ni-Fe catalysts for the Oxygen Evolution Reaction (OER) by study design and systematic physical (XPS) and electrochemical (CP) characterisation, subsequently coupling both via operando Raman spectroscopy[cite: 42].",
+        [cite_start]"Attended the RESOLV summer school[cite: 43]."
+      ]
+    },
+    {
+      "name": "Indian Institute of Science, Bangalore",
+      "position": "Internship",
+      "startDate": "2022-05",
+      "endDate": "2022-07",
+      [cite_start]"summary": "Low-temperature charge transport study[cite: 44].",
+      "highlights": [
+        [cite_start]"Engineered hermetically sealing polymeric chambers through material simulation and iterative design and testing, enabling the first low-temperature charge transport measurements on mixed ionic-electronic organic transistors in an aqueous environment[cite: 46].",
+        [cite_start]"Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes[cite: 47]."
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology, Delhi",
+      "position": "Remote Project",
+      "startDate": "2021-08",
+      "endDate": "2021-09",
+      [cite_start]"summary": "Simulating Li-Ion Batteries[cite: 48].",
+      "highlights": [
+        [cite_start]"Reading project with simulation work to set up the pseudo-2D model in COMSOL Multiphysics for calculating capacity loss in Li-ion cells based on SEI growth towards a large-model study[cite: 49]."
+      ]
     }
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "Student Representative Council",
+      "position": "Elected student council member and academic liaison",
+      "startDate": "2024",
+      "endDate": "2025",
+      [cite_start]"summary": "Represented ~250 peers as an elected student council member and academic liaison in administrative meetings[cite: 72]."
+    },
+    {
+      "organization": "Student Run Mess",
+      "position": "President of the first council",
+      "startDate": "2022",
+      "endDate": "2025",
+      [cite_start]"summary": "Directed the cooperative mess since its inception, serving as President of the first council[cite: 74].",
+      "highlights": [
+        [cite_start]"Designed its fiscal structure, constitution and operational policies, growing annual revenue to 4 Crore INR while supervising 20+ employees, managing a team of 14 council members and handling accounts, logistics and vendor negotiations[cite: 75]."
+      ]
+    },
+    {
+      "organization": "Manthan Magazine",
+      "position": "Managing Editor",
+      "startDate": "2021",
+      "endDate": "2023",
+      [cite_start]"summary": "Served as Junior Editor (2021-2022) and Managing Editor (2022-2023)[cite: 77].",
+      "highlights": [
+        [cite_start]"Conceptualised and designed the institute's first student newspaper, heading design[cite: 77]."
+      ]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Indian Institute of Science Education and Research, Mohali (India)",
+      "area": "Chemistry Major, Data Science Minor",
+      "studyType": "Integrated BS-MS",
+      "startDate": "",
+      "endDate": "2025",
+      "gpa": "8.2/10",
+      "courses": [
+        [cite_start]"Chemistry of Materials [cite: 63]",
+        [cite_start]"Concepts in Nanomaterials [cite: 64]",
+        [cite_start]"Electrochemistry [cite: 65]",
+        [cite_start]"Analytical Chemistry & Lab [cite: 68]",
+        [cite_start]"Molecular Spectroscopy [cite: 68]",
+        [cite_start]"Main Group Chemistry [cite: 69]",
+        [cite_start]"Statistical Thermodynamics [cite: 71]",
+        [cite_start]"Numerical Chemistry [cite: 71]",
+        [cite_start]"Electronics, Electromagnetism [cite: 71]"
+      ]
+    },
+    {
+      "institution": "Saraswati Public School, Jagadhri (India)",
+      "area": "Physics, Chemistry & Mathematics",
+      "studyType": "CBSE Grade 12",
+      "startDate": "",
+      "endDate": "2020",
+      "score": "96% Marks",
+      [cite_start]"summary": "School Topper [cite: 13]"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "title": "Leadership and Outreach Award",
+      "date": "2025",
+      "awarder": "Alumni Association, IISER Mohali",
+      [cite_start]"summary": "Awarded to one BS-MS graduate for leadership, efforts towards outreach and other extracurriculars[cite: 23]."
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "title": "Undergraduate Exchange Scholarship",
+      "date": "2023",
+      "awarder": "RESOLV, Ruhr University Bochum",
+      "summary": "Scholarship to pursue a 3 month research project in Germany; [cite_start]1 of 7 students selected globally[cite: 24]."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "INSPIRE - Scholarship for Higher Education (SHE)",
+      "date": "2020",
+      "awarder": "DST, Govt of India",
+      [cite_start]"summary": "Five-year scholarship awarded to top 1% of Grade 12 graduates for higher education in scientific research[cite: 27]."
     }
   ],
   "publications": [
     {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Acoustic and Impedance Analysis of Solid Electrolytes for All-Solid-State Batteries",
+      "publisher": "DSpace@IISERMohali",
+      "releaseDate": "2025",
+      [cite_start]"summary": "Master's thesis by Sharat SA under supervision of Naga Phani Aetukuri and Angshuman Roy Choudhary[cite: 14]. [cite_start][Embargoed until April 2028][cite: 14]."
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "In-situ Raman investigations of Fe-coated Ni OER electrodes",
+      "publisher": "Advanced Energy and Sustainability Research",
+      "releaseDate": "Under Review",
+      "url": "https://doi.org/10.26434/chemrxiv-2024-6jbn4",
+      [cite_start]"summary": "Authors: Efthimiopoulos 1, Zhang S, Samisereht N. Sharat SA, Ebbinghaus P, Mehrmann C, et al. [cite: 15] [cite_start][Preprint: 10.26434/chemrxiv-2024-6jbn4][cite: 16]."
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Shouldn't charge transfer resistance be lower for solid-state electrolytes?",
+      "publisher": "",
+      "releaseDate": "In preparation",
+      [cite_start]"summary": "Authors: Rana AK, Sharat SA, Maity S, Aetukuri NP, et al. [cite: 17] [cite_start][In preparation][cite: 18]."
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Electrochemical Analysis",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Broadband EIS",
+        "DRT",
+        "KK",
+        "Cell Cycling",
+        "CV",
+        "CP/CA",
+        "CNLS Fitting"
       ]
-    }
-  ],
-  "languages": [
-    {
-      "language": "German",
-      "fluency": "Native speaker",
-      "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
-      "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Materials Characterisation",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Scanning Acoustic Microscopy (SAM)",
+        "Raman",
+        "IR",
+        "UV-Vis",
+        "AFM-IR"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "Synthesis",
+      "keywords": [
+        "Solid-state synthesis",
+        "Spin Casting",
+        "3D Printing",
+        "Glove-box Fabrication"
+      ]
+    },
+    {
+      "name": "Computation & Data Analysis",
+      "keywords": [
+        "COMSOL",
+        "Python",
+        "Julia",
+        "FORTRAN",
+        "Gaussian",
+        "CSD/CCDC"
+      ]
+    },
+    {
+      "name": "Software Environments",
+      "keywords": [
+        "OriginPro",
+        "AutoCAD",
+        "Linux",
+        "IATFX (preferred)",
+        "MS Office"
+      ]
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "BS-MS Thesis Poster Presentation",
+      [cite_start]"description": "Poster \"Even Solid-State Batteries Need to Relax\" at IISER-Mohali[cite: 52, 53].",
+      "startDate": "2025",
+      "endDate": "2025",
+      "type": "Poster Presentation"
+    },
+    {
+      "name": "Solid State and Structural Chemistry Unit Day",
+      [cite_start]"description": "Oral Presentation \"Using Impedance Spectroscopy to study interfaces in Solid-State Batteries\" at Indian Institute of Science[cite: 55, 54].",
+      "startDate": "2024",
+      "endDate": "2024",
+      "type": "Oral Presentation"
+    },
+    {
+      "name": "RESOLV UEx Presentation",
+      [cite_start]"description": "Oral Presentation \"Understanding the mechanism behind Ni-Fe Bimetallic Catalysis in OER\" at Ruhr University Bochum[cite: 57, 56].",
+      "startDate": "2023",
+      "endDate": "2023",
+      "type": "Oral Presentation"
+    }
+  ],
+  "references": [
+    {
+      "name": "Prof Naga Phani Aetukuri",
+      [cite_start]"reference": "Thesis and Internship Supervisor, Associate Professor, IISc, phani@iisc.ac.in[cite: 80]."
+    },
+    {
+      "name": "Dr Martin Rabe",
+      [cite_start]"reference": "Internship Supervisor, Group Leader, MPI SusMat, m.rabe@mpi-susmat.de[cite: 81]."
+    },
+    {
+      "name": "Prof Ujjal K. Gautam",
+      [cite_start]"reference": "Instructor and Thesis Evaluator, Associate Professor, IISER-M, ujjalgautam@iisermohali.ac.in[cite: 83]."
     }
   ]
 }
