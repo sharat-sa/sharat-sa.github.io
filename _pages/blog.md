@@ -193,4 +193,5 @@ pagination:
 {% include pagination.liquid %}
 {% endif %}
 
+
 </div>
