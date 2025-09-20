@@ -10,4 +10,4 @@ nav_order: 7
 >
 > -- Carl Sagan, Cosmos, Part 11: The Persistence of Memory (1980)
 
-## Books that I am reading, have read, or will read
+## Books, place, restaurants, recipes
