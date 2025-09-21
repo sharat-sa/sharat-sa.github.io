@@ -1,8 +1,8 @@
 ---
 layout: post
-title: a post with image galleries
-date: 2024-12-04 01:59:00
-description: this is what included image galleries could look like
+title: Graduated from IISER Mohali
+date: 2025-17-06 17:00:00
+description: Last day at IISER
 tags: formatting images
 categories: sample-posts
 thumbnail: assets/img/9.jpg
@@ -13,7 +13,7 @@ images:
   venobox: true
 ---
 
-The images in this post are all zoomable, arranged into different mini-galleries using different libraries.
+Got the leadership award for SRM, got my degrees, bid farewells to my favourite faculty and family (Sanjana, Rochan, Sahil, Farhan, Manvendra, Dhwani, Joshua, Shreyas). Banger photos we got.
 
 ## [Lightbox2](https://lokeshdhakar.com/projects/lightbox2/)
 
