@@ -27,6 +27,6 @@ Broadly, I study energy materials from a fundamentals perspective - unravelling 
 
 > At
 
-## Rational policy design for social change 
+## Rational policy design for social change
 
-> 
+>
