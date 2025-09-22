@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Graduated from IISER Mohali
-date: 2025-17-06 17:00:00
+date: 2025-06-17 17:00:00
 description: Last day at IISER
 tags: formatting images
 categories: sample-posts
