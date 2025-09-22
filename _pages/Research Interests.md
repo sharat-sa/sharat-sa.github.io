@@ -26,3 +26,7 @@ Broadly, I study energy materials from a fundamentals perspective - unravelling 
 ## Chemo-Mechanical Coupling at the Cathodic Interface in batteries
 
 > At
+
+## Rational policy design for social change 
+
+> 
