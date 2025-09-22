@@ -13,7 +13,7 @@ Broadly, I study energy materials from a fundamentals perspective - unravelling 
 
 > Interfacial kinetics in All-Solid-State-Batteries (ASSBs) control the Lithium stripping and deposition during cell operations. Interfacial resistance typically involves transport through interfacial layers, and the charge transfer reaction. However it has been shown both theoretically (Gao et al, <i>Advanced Energy and Simulation</i>, 2019) and experimentally (Krauskopf et al, Advanced Energy Materials, 2021), that inherently both of these processes are lowly resistive.
 
->But how low can these figures be for polycrystalline samples (without extensive chemical modifications), and how big is the contribution of the charge transfer reaction to this? Furthermore, how <i>fast</i> can the charge transfer reaction be?
+> But how low can these figures be for polycrystalline samples (without extensive chemical modifications), and how big is the contribution of the charge transfer reaction to this? Furthermore, how <i>fast</i> can the charge transfer reaction be?
 
 ## Tackling Electrode Interfacing in Solid-State Batteries
 
