@@ -13,20 +13,13 @@ Broadly, I study energy materials from a fundamentals perspective - unravelling 
 
 > Interfacial kinetics in All-Solid-State-Batteries (ASSBs) control the Lithium stripping and deposition during cell operations. Interfacial resistance typically involves transport through interfacial layers, and the charge transfer reaction. However it has been shown both theoretically (Gao et al, <i>Advanced Energy and Simulation</i>, 2019) and experimentally (Krauskopf et al, Advanced Energy Materials, 2021), that inherently both of these processes are lowly resistive. But how low can these figures be for polycrystalline samples (without extensive chemical modifications), and how big is the contribution of the charge transfer reaction to this? Furthermore, how <i>fast</i> can the charge transfer reaction be? <i>Read more in upcoming study with Ajeet & Phani </i>.
 
-## Spectrscopy at electrochemical interfaces
+## Electro-chemo-mechanical coupling in batteries.
 
-> See work with Martin and also acoustic microscopy.
+> Abrupt changes in physical and electrochemical properties at material interfaces produce very interesting properties which need deeper investigations. Faradaic and non-faradaic processes are convoluted by chemical and mechanical degradation, which further evolves as cells undergo mechanical stress due to phase evolution during cycling. This requires a deep understanding of the elemetary processes occuring at the interface, to resolve which coupled <i>in-situ</i> methods are excellent. I have worked on such method development during past works with Dr Martin Rabe at MPI, and with Prof Naga Phani at IISc.
+> I am hoping to further work on this topic during my doctoral studies, where I am aiming to understand how charge transport varies as interfaces degrade - towards developing a "eletro-chemo-mechanical" understanding of battery interfaces to enable interfacial engineering stratergies. High-strain chemistries such as metallic\alloyed anodes, solid-state electrolytes, and sulfur-based chemistries are of particular interest for the topic.
 
 ## Tackling Electrode Interfacing in Solid-State Batteries
 
 > While multiple classes of solid electrolyes have been engineered for excelling at the various requirements for the <i>ideal</i> solid electrolyte, no one material excells at all necessary requirements. Can multiple classes of electrolytes be combined to give a composite electrolyte to solve the problem of ASSBs? We (at IISc) are currently investigating the chemical and mechanical compatibility of bilayer stacks which excel for particular anodes. Specefically, densely sintered oxides (best reductive stability against Li metal) are being checked for compatibility against mechanical softer sulfides.
 
 > On similar lines, recent development of halide materials with higher cathodic performance is encouraging and I am hopeful about exploring those in the future. Additionally, swapping oxides for anolytes with self passivating layers and/or artificial interlayers is also interesting and may be worked upon in further studies.
-
-## Chemo-Mechanical Coupling at the Cathodic Interface in batteries
-
-> At
-
-## Rational policy design for social change
-
->
