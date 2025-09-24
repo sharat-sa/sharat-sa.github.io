@@ -55,6 +55,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/iisc/";
           
         },
+      },{id: "post-gyaan-amp-goodbyes-sharat-sa-manthan",
+        
+          title: 'Gyaan &amp; Goodbyes: Sharat SA – Manthan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "On your role as SRMC President: When and why did you decide to contest for President of SRMC? Was the experience fulfilling? What was your most memorable feat/ something that you are proud of? How much did it take a toll on your academics, or personal life? I decided to step up as President following…",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://manthanmagazine.wordpress.com/2025/07/26/gyaan-goodbyes-sharat-sa/", "_blank");
+          
+        },
       },{id: "post-graduated-from-iiser-mohali",
         
           title: "Graduated from IISER Mohali",
@@ -64,6 +75,28 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/graduation/";
+          
+        },
+      },{id: "post-the-question-of-gendered-segregation-at-iiser-mohali-manthan",
+        
+          title: 'The Question of Gendered Segregation at IISER Mohali – Manthan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Times are changing at IISER Mohali. As the issue of gender segregation in student spaces reaches a boiling point, the student community is forced to battle an increasingly authoritarian administration that silences their voices.",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://manthanmagazine.wordpress.com/2022/07/03/the-question-of-gendered-segregation-at-iiser-mohali/", "_blank");
+          
+        },
+      },{id: "post-manthan-times-volume-1-manthan",
+        
+          title: 'Manthan Times Volume 1 – Manthan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
+        
+        description: "Click on the image to view the newspaper! Edition 3 Edition 2 Edition 1",
+        section: "Posts",
+        handler: () => {
+          
+            window.open("https://manthanmagazine.wordpress.com/volume-1-edition-1/", "_blank");
           
         },
       },{id: "news-graduated-from-iiser-mohali",
