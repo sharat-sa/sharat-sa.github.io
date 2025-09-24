@@ -118,9 +118,18 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-#external_sources:
-#  - name: medium.com
-#    rss_url: https://medium.com/@al-folio/feed
+external_sources:
+  - name: Manthan Magazine
+    posts:
+      - url: https://manthanmagazine.wordpress.com/2025/07/26/gyaan-goodbyes-sharat-sa/
+        title: "Gyaan & Goodbyes: Sharat SA"
+        published_date: 2025-07-26
+      - url: https://manthanmagazine.wordpress.com/2022/07/03/the-question-of-gendered-segregation-at-iiser-mohali/
+        title: "The Question of Gendered Segregation at IISER Mohali"
+        published_date: 2022-07-03
+      - url: https://manthanmagazine.wordpress.com/volume-1-edition-1/
+        title: "Manthan Times Volume 1, Edition 1"
+        published_date: 2021-01-01
 # - name: Google Blog
 #    posts:
 #      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
