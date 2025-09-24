@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am a graduate student working with electrochemical analysis (recently - batteries), and love design, literature, technology and journalism. A majority of my (non-academic) published work can be found at <a href='https://manthanmagazine.wordpress.com'>Manthan</a>, with which I was associated with till June 2025 (when I graduated from IISER-Mohali, my alma-mater), and will soon be translating my skills in re-invigorating <a href='https://sites.google.com/view/inventa23/'>Inventa</a>. I am also exceptionally proud of setting up the <a href='https://web.iisermohali.ac.in/web/students/webpages/srmc.html'>Student-Run-Mess</a> at IISER-Mohali.
