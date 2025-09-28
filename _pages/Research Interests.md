@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-Broadly, I study energy materials from a fundamentals perspective - unravelling how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly delve into computation and simulation for assistance. Outside of purely academic curiosity, this is done to develop more efficient materials for the global transition towards sustainable energy - driven by an urgent need to mitigate climate change. My publications can be checked out in the relevant section <a href='https://sharat-sa.github.io/CV/#publications-1'> here </a>
+Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly employ computation and simulation for assistance. Outside of purely academic curiosity, this is done with the goal to develop more efficient materials for the global transition towards sustainable energy. My publications in the area can be checked out in the relevant section <a href='https://sharat-sa.github.io/CV/#publications-1'> here </a>
 
 {% include figure.liquid path="assets/img/batteries.png" caption="Original illustration, please feel free to use" %}
 
