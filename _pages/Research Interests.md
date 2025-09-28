@@ -13,10 +13,10 @@ nav_order: 2
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 250px; margin-right: 2em;">
-    {% include figure.liquid path="assets/img/LLZO_Li.png" caption="Space-charge density at Li/LLZO interface" %}
+    {% include figure.liquid path="assets/img/chargetransfer.PNG" caption="Charge transfer in liquid electrolyte" %}
   </div>
   <div style="flex: 1;">
-    Interfacial charge transfer reaction controls operational kinetics, direct experimental measurements on which are limited by concomitant processes from interfacial layers. ASSBs employing reductively stable LLZO should theoretically{% cite gao_ab_2019 %} have a stable and lowly resistive interface with lithium metal, providing a platform for studying reaction kinetics. While a recent indirect measurement has been performed on monocrystalline samples {% cite krauskopf_fast_2020 %}, are direct measurements possible on polysrytalline macroscopic samples? Furthermore, how <i>fast</i> can the charge transfer reaction be? <i> Read more in upcoming work {%cite rana2025rct %} </i>. (Illustration from {% cite swift_modeling_2021 %})
+    Interfacial charge transfer reaction controls operational kinetics, direct experimental measurements on which are limited by concomitant processes from interfacial layers. ASSBs employing reductively stable LLZO should theoretically{% cite gao_ab_2019 %} have a stable and lowly resistive interface with lithium metal, providing a platform for studying reaction kinetics. While a recent indirect measurement has been performed on monocrystalline samples {% cite krauskopf_fast_2020 %}, are direct measurements possible on polysrytalline macroscopic samples? Furthermore, how <i>fast</i> can the charge transfer reaction be? (Illustration from {% cite bai_charge_2014 %})
   </div>
 </div>
 
@@ -24,10 +24,10 @@ nav_order: 2
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 250px; margin-right: 2em;">
-    {% include figure.liquid path="assets/img/chemomechanics.png" caption="Illustration from https://doi.org/10.1038/s41467-024-52123-w" %}
+    {% include figure.liquid path="assets/img/chemomechanics.png" caption="Electro-chemo-mechanical phenomena in solid-state cathode composites" %}
   </div>
   <div style="flex: 1;">
-    Interfacial kinetics control battery performance. However convolution between faradaic, non-faradaic and parasitic processes, accompanied by mechanical and chemical degradation produce a challenging environment to analyse. Motivated by my past work {% cite efthimiopoulos2024situ sharat2025 %} with operando methods, I am seeking to study electrode kinetics at chemically complex interphases in batteries. Knowledge of fundamental processes at the interphase are expected to result in interfacial engineering strategies, which would be key to unlocking better batteries. High-strain chemistries such as metallic anodes, solid electrolytes, and sulfur-based cathodes are of particular interest for the topic.
+    Interfacial kinetics control battery performance. However convolution between faradaic, non-faradaic and parasitic processes, accompanied by mechanical and chemical degradation produce a challenging environment to analyse. Motivated by my past work {% cite efthimiopoulos2024situ sharat2025 %}, I am seeking to study electrode kinetics at chemically complex interphases using coupled spectroscopic methods. Knowledge of fundamental processes at the interphase are expected to result in interfacial engineering strategies, which would be key to unlocking better batteries. High-strain chemistries such as metallic anodes, solid electrolytes, and sulfur-based cathodes are of particular interest for the topic. Illustration from {% cite liu_role_2024 %}
   </div>
 </div>
 
