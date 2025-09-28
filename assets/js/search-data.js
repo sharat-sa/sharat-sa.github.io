@@ -52,7 +52,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/iisc/";
+            window.location.href = "/Blog/2025/iisc/";
           
         },
       },{id: "post-gyaan-amp-goodbyes-sharat-sa-manthan",
@@ -74,7 +74,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/graduation/";
+            window.location.href = "/Blog/2025/graduation/";
           
         },
       },{id: "post-the-question-of-gendered-segregation-at-iiser-mohali-manthan",
