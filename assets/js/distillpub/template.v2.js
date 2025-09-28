@@ -2695,6 +2695,7 @@ d-citation-list .references .title {
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
+              if (token === '__proto__' || token === 'constructor' || token === 'prototype') continue;
               grammar[token] = rest[token];
             }
 
@@ -4685,7 +4686,16 @@ d-references {
       const title = el.textContent;
       const link = "#" + el.getAttribute("id");
 
-      let newLine = "<li>" + '<a href="' + link + '">' + title + "</a>" + "</li>";
+      function escapeHTML(str) {
+        return String(str)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;')
+          .replace(/'/g, '&#39;');
+      }
+
+      let newLine = "<li>" + '<a href="' + link + '">' + escapeHTML(title) + "</a>" + "</li>";
       if (el.tagName == "H3") {
         newLine = "<ul>" + newLine + "</ul>";
       } else {

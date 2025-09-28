@@ -2,7 +2,7 @@
 layout: page
 title: Resources on batteries
 description: a project with a background image
-img: assets/img/1.jpg
+img: assets/img/batteries.png
 importance: 1
 category: Scientific
 ---
