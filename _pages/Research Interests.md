@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-> Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly employ computation and simulation for assistance. Outside of purely academic curiosity, this is done with the goal to develop more efficient materials for the global transition towards sustainable energy. 
+> Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly employ computation and simulation for assistance. Outside of purely academic curiosity, this is done with the goal to develop more efficient materials for the global transition towards sustainable energy.
 
 ## Kinetics of the Li/LLZO Interface
 
@@ -42,8 +42,8 @@ nav_order: 2
   </div>
 </div>
 
-
 ## References
+
 <hr>
 
 {% bibliography %}
