@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of your cool projects.",
+          description: "Resources and other fun things",
           section: "Navigation",
           handler: () => {
             window.location.href = "/Projects/";
@@ -99,42 +99,31 @@ ninja.data = [{
             window.open("https://manthanmagazine.wordpress.com/volume-1-edition-1/", "_blank");
           
         },
-      },{id: "news-graduated-from-iiser-mohali",
-          title: 'Graduated from IISER-Mohali',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-joined-prof-naga-phani-s-group-at-iisc-again-will-be-pushing-earlier-work-to-publication",
-          title: 'Joined Prof Naga Phani’s group at IISc again, will be pushing earlier work...',
-          description: "",
-          section: "News",},{id: "projects-55-malviya-nagar",
+      },{id: "projects-resources-on-batteries",
+          title: 'Resources on batteries',
+          description: "a project with a background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Batteries/";
+            },},{id: "projects-55-malviya-nagar",
           title: '55, Malviya Nagar',
           description: "with background image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-student-run-mess",
-          title: 'Student Run Mess',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-manthan-magazine",
-          title: 'Manthan Magazine',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/Home/";
             },},{id: "projects-impedance-setup",
           title: 'Impedance Setup',
           description: "another without an image",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/Impedance/";
+            },},{id: "projects-manthan-magazine",
+          title: 'Manthan Magazine',
+          description: "a project that redirects to another website",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/Manthan/";
+            },},{id: "projects-student-run-mess",
+          title: 'Student Run Mess',
+          description: "a project with a background image and giscus comments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/SRM/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
