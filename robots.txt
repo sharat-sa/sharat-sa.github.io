@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://sharat-sa.github.io/sitemap.xml
