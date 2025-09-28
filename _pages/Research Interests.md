@@ -13,7 +13,7 @@ nav_order: 2
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 2em;">
   <div style="flex: 0 0 250px; margin-right: 2em;">
-    {% include figure.liquid path="assets/img/chargetransfer.PNG" caption="Charge transfer in liquid electrolyte" %}
+    {% include figure.liquid path="assets/img/chargetransfer.png" caption="Charge transfer in liquid electrolyte" %}
   </div>
   <div style="flex: 1;">
     Interfacial charge transfer reaction controls operational kinetics, direct experimental measurements on which are limited by concomitant processes from interfacial layers. ASSBs employing reductively stable LLZO should theoretically{% cite gao_ab_2019 %} have a stable and lowly resistive interface with lithium metal, providing a platform for studying reaction kinetics. While a recent indirect measurement has been performed on monocrystalline samples {% cite krauskopf_fast_2020 %}, are direct measurements possible on polysrytalline macroscopic samples? Furthermore, how <i>fast</i> can the charge transfer reaction be? (Illustration from {% cite bai_charge_2014 %})
