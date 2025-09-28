@@ -99,29 +99,34 @@ ninja.data = [{
             window.open("https://manthanmagazine.wordpress.com/volume-1-edition-1/", "_blank");
           
         },
-      },{id: "projects-resources-on-batteries",
-          title: 'Resources on batteries',
-          description: "a project with a background image",
+      },{id: "projects-getting-started-with-battery-research",
+          title: 'Getting started with battery research',
+          description: "Papers, books and other links for undergraduates",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Batteries/";
-            },},{id: "projects-55-malviya-nagar",
-          title: '55, Malviya Nagar',
-          description: "with background image",
+            },},{id: "projects-battery-graphics",
+          title: 'Battery Graphics',
+          description: "Batteries media",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Graphics/";
+            },},{id: "projects-sitakunj",
+          title: 'Sitakunj',
+          description: "Designing 55, Malviya Nagar, Jagadhri",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Home/";
             },},{id: "projects-impedance-setup",
           title: 'Impedance Setup',
-          description: "another without an image",
+          description: "How to take good quality EIS measurements?",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Impedance/";
             },},{id: "projects-manthan-magazine",
           title: 'Manthan Magazine',
-          description: "a project that redirects to another website",
+          description: "How to start a newspaper",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Manthan/";
             },},{id: "projects-student-run-mess",
           title: 'Student Run Mess',
-          description: "a project with a background image and giscus comments",
+          description: "Making of the co-operative mess of IISER-Mohali",
           section: "Projects",handler: () => {
               window.location.href = "/projects/SRM/";
             },},{
