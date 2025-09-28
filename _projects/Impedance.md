@@ -4,7 +4,7 @@ title: Impedance Setup
 description: another without an image
 img:
 importance: 3
-category: work
+category: Scientific
 ---
 
 Every project has a beautiful feature showcase page.
