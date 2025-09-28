@@ -3170,7 +3170,11 @@ d-citation-list .references .title {
         var def = {};
         def[tagName] = {
           pattern: RegExp(
-            /(<__[\s\S]*?>)(?:<!\[CDATA\[[\s\S]*?\]\]>\s*|[\s\S])*?(?=<\/__>)/.source.replace(/__/g, function () {
+            // Fix: Refactor to avoid ambiguity and prevent exponential backtracking by ensuring
+            // the second alternative does not match CDATA block starts.
+            // New pattern: (first group remains) then repeated: (CDATA block | non-CDATABLOCK character)
+            // [\s\S] replaced by (?!<!\[CDATA\[)[\s\S] which matches only if not starting a CDATA
+            /(<__[\s\S]*?>)(?:(?:<!\[CDATA\[[\s\S]*?\]\]>\s*)|(?:(?!<!\[CDATA\[)[\s\S]))*?(?=<\/__>)/.source.replace(/__/g, function () {
               return tagName;
             }),
             "i"
