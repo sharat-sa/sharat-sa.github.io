@@ -2695,7 +2695,6 @@ d-citation-list .references .title {
           var rest = grammar.rest;
           if (rest) {
             for (var token in rest) {
-              if (token === '__proto__' || token === 'constructor' || token === 'prototype') continue;
               grammar[token] = rest[token];
             }
 
@@ -3171,11 +3170,7 @@ d-citation-list .references .title {
         var def = {};
         def[tagName] = {
           pattern: RegExp(
-            // Fix: Refactor to avoid ambiguity and prevent exponential backtracking by ensuring
-            // the second alternative does not match CDATA block starts.
-            // New pattern: (first group remains) then repeated: (CDATA block | non-CDATABLOCK character)
-            // [\s\S] replaced by (?!<!\[CDATA\[)[\s\S] which matches only if not starting a CDATA
-            /(<__[\s\S]*?>)(?:(?:<!\[CDATA\[[\s\S]*?\]\]>\s*)|(?:((?!<!\[CDATA\[)[\s\S])))*?(?=<\/__>)/.source.replace(/__/g, function () {
+            /(<__[\s\S]*?>)(?:<!\[CDATA\[[\s\S]*?\]\]>\s*|[\s\S])*?(?=<\/__>)/.source.replace(/__/g, function () {
               return tagName;
             }),
             "i"
@@ -4240,7 +4235,7 @@ ${css}
 
       if (this.hasAttribute("block")) {
         // normalize the tab indents
-        content = content.replace(/\n/g, "");
+        content = content.replace(/\n/, "");
         const tabs = content.match(/\s*/);
         content = content.replace(new RegExp("\n" + tabs, "g"), "\n");
         content = content.trim();
@@ -4686,16 +4681,7 @@ d-references {
       const title = el.textContent;
       const link = "#" + el.getAttribute("id");
 
-      function escapeHTML(str) {
-        return String(str)
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/"/g, '&quot;')
-          .replace(/'/g, '&#39;');
-      }
-
-      let newLine = "<li>" + '<a href="' + link + '">' + escapeHTML(title) + "</a>" + "</li>";
+      let newLine = "<li>" + '<a href="' + link + '">' + title + "</a>" + "</li>";
       if (el.tagName == "H3") {
         newLine = "<ul>" + newLine + "</ul>";
       } else {

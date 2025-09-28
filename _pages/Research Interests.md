@@ -7,10 +7,6 @@ nav: true
 nav_order: 2
 ---
 
-<div style="width: 60%; margin: 0 auto; text-align: center;">
-  {% include figure.liquid path="assets/img/batteries.png" caption="Original illustration, please feel free to use" %}
-</div>
-
 > Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly employ computation and simulation for assistance. Outside of purely academic curiosity, this is done with the goal to develop more efficient materials for the global transition towards sustainable energy. My publications in the area can be checked out in the relevant section <a href='https://sharat-sa.github.io/CV/#publications-1'> here </a>
 
 ## Kinetics of the Li/LLZO Interface
@@ -43,9 +39,11 @@ nav_order: 2
     {% include figure.liquid path="assets/img/bilayer.png" caption="Based on SEM by AKR" %}
   </div>
   <div style="flex: 1;">
-    While multiple classes of solid electrolyes have been engineered for excelling at the various requirements for the <i>ideal</i> solid electrolyte, no one material excells at all necessary requirements. Can multiple classes of electrolytes be combined to give a composite electrolyte to solve the problem of ASSBs? We (at IISc) are currently investigating the chemical and mechanical compatibility of bilayer stacks which excel for particular anodes. Specefically, densely sintered oxides (best reductive stability against Li metal) are being checked for compatibility against mechanical softer sulfides.
+    While multiple classes of solid electrolyes have been engineered for excelling at the various requirements for the <i>ideal</i> solid electrolyte {% cite einstein1920relativity %}, no one material excells at all necessary requirements. Can multiple classes of electrolytes be combined to give a composite electrolyte to solve the problem of ASSBs? We (at IISc) are currently investigating the chemical and mechanical compatibility of bilayer stacks which excel for particular anodes. Specefically, densely sintered oxides (best reductive stability against Li metal) are being checked for compatibility against mechanical softer sulfides.
 
     On similar lines, recent development of halide materials with higher cathodic performance is encouraging and I am hopeful about exploring those in the future. Additionally, swapping oxides for anolytes with self passivating layers and/or artificial interlayers is also interesting and may be worked upon in further studies.
 
   </div>
 </div>
+
+{% bibliography %}
