@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Manthan Magazine
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+description: How to start a newspaper
+img: assets/img/newspaper.jpeg
 importance: 3
 category: Personal
 ---

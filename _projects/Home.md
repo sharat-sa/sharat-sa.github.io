@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 55, Malviya Nagar
-description: with background image
-img: assets/img/12.jpg
+title: Sitakunj
+description: Designing 55, Malviya Nagar, Jagadhri
+img: assets/img/home.jpg
 importance: 1
 category: Personal
 related_publications: true

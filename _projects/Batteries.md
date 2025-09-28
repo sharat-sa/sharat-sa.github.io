@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Resources on batteries
-description: a project with a background image
+title: Getting started with battery research
+description: Papers, books and other links for undergraduates
 img: assets/img/batteries.png
 importance: 1
 category: Scientific

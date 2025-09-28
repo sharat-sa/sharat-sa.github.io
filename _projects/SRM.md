@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Student Run Mess
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: Making of the co-operative mess of IISER-Mohali
+img: assets/img/SRM.jpg
 importance: 2
 category: Personal
 giscus_comments: true

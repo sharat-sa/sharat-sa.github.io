@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Impedance Setup
-description: another without an image
-img:
-importance: 3
+description: How to take good quality EIS measurements?
+img: assets/img/eis.png
+importance: 2
 category: Scientific
 ---
 
