@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: Resources and other fun things
+description: Resources and other fun things (CURRENTLY BEING PORTED OVER, TEMPLATES ARE EMPTY)
 nav: true
 nav_order: 4
 display_categories: [Scientific, Personal]

@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-> Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour. I do this mostly via experimental techniques - where my speciality lies at analytical chemistry; however I also occasionaly employ computation and simulation for assistance. Outside of purely academic curiosity, this is done with the goal to develop more efficient materials for the global transition towards sustainable energy.
+> Broadly, I study energy materials from a fundamentals perspective - observing how fundamental material characterisitics scale up to produce complex operational behaviour - mostly via experimental techniques, where my speciality lies at analytical chemistry. Occasionally computation and simulation is also employed for assisstance. Outside of purely academic curiosity, this is done with a goal to develop more efficient materials to aid in the global transition towards sustainable energy.
 
 ## Kinetics of the Li/LLZO Interface
 
@@ -38,7 +38,7 @@ nav_order: 2
     {% include figure.liquid path="assets/img/bilayer.png" caption="Oxide/Sulphide bilayer cell schematic" %}
   </div>
   <div style="flex: 1;">
-    While multiple classes of solid electrolyes have been engineered to excel at the various requirements for an <i>ideal</i> solid electrolyte {% cite raj_solid_2022 %}, no one material excells at everything. To overcome their individual shortcomings, stacking multiple electrolytes has emerged as a competitive option {% cite huttl_ultra-low_2021 %}. Currently, I am investigating the chemical and mechanical compatibility of densely sintered LLZO (reductively stabile against Li metal) against mechanical softer sulfides at the cathode. Oxides may also be swapped for anolytes with self passivating or artificial interlayers, while halides could serve as an improvement upon sulphides in future work. 
+    While multiple classes of solid electrolyes have been engineered to excel at the various requirements for an <i>ideal</i> solid electrolyte {% cite raj_solid_2022 %}, no one material excells at everything. To overcome their individual shortcomings, stacking multiple electrolytes has emerged as a competitive option {% cite huttl_ultra-low_2021 %}. Currently, I am investigating the chemical and mechanical compatibility of densely sintered LLZO (reductively stabile against Li metal) against mechanical softer sulfides at the cathode. Oxides may also be swapped for anolytes with self passivating or artificial interlayers, while halides could serve as an improvement upon sulfides in future work. 
   </div>
 </div>
 

@@ -23,36 +23,36 @@
   },
   "work": [
     {
-      "name": "Indian Institute of Science Bangalore",
-      "position": "Graduate RAship",
+      "name": "Interfacial charge transfer kinetics study",
+      "position": "Graduate RAship with Prof Naga Phani Aetukuri ",
       "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2025-09",
       "endDate": "Present",
-      "summary": "Interfacial charge transfer kinetics study with Prof Naga Phani Aetukuri",
+      "summary": "Indian Institute of Science Bangalore",
       "highlights": [
         "Compiling data, literature review and theoretical calculations for a manuscript in preparation.",
         "Executing cycling-EIS-DRT tests to investigate Li/LLZO interface.",
-        "Designing custom 3-electrode Li-ion cells."
+        "Designing custom 3-electrode Li-ion cells, and high-pressure high-frequency EIS setup."
       ]
     },
     {
-      "name": "IISER, Mohali",
-      "position": "MS Thesis",
+      "name": "Computational study of CF-π interactions",
+      "position": "MS Thesis with Prof Angshuman Roy Choudhary",
       "url": "https://web.iisermohali.ac.in/Faculty/angshurc/index.php",
       "startDate": "2025-02",
       "endDate": "2025-03",
-      "summary": "Computational study of CF-π interactions with Prof Angshuman Roy Choudhary",
+      "summary": "IISER, Mohali",
       "highlights": [
         "Isolated the stabilisation effect of weak F-bonding in fluorinated sp2 molecules by modelling CF-π interactions using Gaussian09 on real molecules from the Cambridge Structural Database."
       ]
     },
     {
-      "name": "Indian Institute of Science Bangalore",
-      "position": "MS Thesis",
+      "name": "Acoustic and impedance analysis of solid electrolytes",
+      "position": "MS Thesis with Prof Naga Phani Aetukuri",
       "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2024-06",
       "endDate": "2025-01",
-      "summary": "Acoustic and impedance analysis of solid electrolytes with Prof Naga Phani Aetukuri",
+      "summary": "Indian Institute of Science Bangalore",
       "highlights": [
         "Established a broad-band EIS-DRT setup for solid electrolytes (LLZO, LPSCI), leading to quantifiable improvements in interfacial stability in half-cell and bilayer configurations.",
         "Evaluated improvements to LLZO synthesis using DRT, demonstrating limitations to achieving high density LLZO and highlighting the critical role of grain-boundary phases in bulk and interfacial electro-mechanics.",
@@ -60,36 +60,36 @@
       ]
     },
     {
-      "name": "Max Planck Institute für Eisenforschung, Düsseldorf",
-      "position": "Internship",
+      "name": "Understanding bimetallic OER catalysis",
+      "position": "Internship with Dr Martin Rabe",
       "url": "https://www.mpie.de/4102551/Spectroscopy-at-Electrochemical-Interfaces",
       "startDate": "2023-05",
       "endDate": "2023-07",
-      "summary": "Understanding bimetallic OER catalysis with Dr Martin Rabe",
+      "summary": "Max Planck Institute für Eisenforschung, Düsseldorf",
       "highlights": [
         "Unravelled the role of iron in bimetallic Ni-Fe catalysts for the Oxygen Evolution Reaction (OER) by study design and systematic physical (XPS) and electrochemical (CP) characterisation, subsequently coupling both via operando Raman spectroscopy.",
         "Attended the RESOLV summer school."
       ]
     },
     {
-      "name": "Indian Institute of Science, Bangalore",
-      "position": "Internship",
+      "name": "Low-temperature charge transport study",
+      "position": "Internship with Prof Naga Phani Aetukuri",
       "url": "https://sites.google.com/view/qlab-iisc/home",
       "startDate": "2022-05",
       "endDate": "2022-07",
-      "summary": "Low-temperature charge transport study with Prof Naga Phani Aetukuri",
+      "summary": "Indian Institute of Science, Bangalore",
       "highlights": [
         "Engineered hermetically sealing polymeric chambers through material simulation and iterative design and testing, enabling the first low-temperature charge transport measurements on mixed ionic-electronic organic transistors in an aqueous environment.",
         "Fabricated and electrochemically characterised Organic Electrochemical Transistors on interdigitated electrodes."
       ]
     },
     {
-      "name": "Indian Institute of Technology, Delhi",
-      "position": "Remote Project",
+      "name": "Simulating Li-Ion Batteries in COMSOL",
+      "position": "Internship with Prof Akhil Garg",
       "url": "https://cart.iitd.ac.in/",
       "startDate": "2021-08",
       "endDate": "2021-09",
-      "summary": "Simulating Li-Ion Batteries with Prof Akhil Garg",
+      "summary": "Indian Institute of Technology, Delhi",
       "highlights": [
         "Reading project with simulation work to set up the pseudo-2D model in COMSOL Multiphysics for calculating capacity loss in Li-ion cells based on SEI growth towards a large-model study."
       ]
@@ -201,14 +201,14 @@
       "publisher": "Advanced Energy and Sustainability Research",
       "releaseDate": "Under Review",
       "url": "https://doi.org/10.26434/chemrxiv-2024-6jbn4",
-      "summary": "Authors: Efthimiopoulos 1, Zhang S, Samisereht N. Sharat SA, Ebbinghaus P, Mehrmann C, et al."
+      "summary": "Authors: Efthimiopoulos 1, Zhang S, Samisereht N. Sharat SA, Ebbinghaus P, Mehrmann C and Martin Rabe"
     },
     {
       "name": "Shouldn't charge transfer resistance be lower for solid-state electrolytes?",
       "publisher": "",
       "releaseDate": "In preparation",
       "url": "",
-      "summary": "Authors: Rana AK, Sharat SA, Maity S, Aetukuri NP, et al."
+      "summary": "Authors: Rana AK, Sharat SA, Sayan Ghosh, Maity S and Aetukuri NP"
     }
   ],
   "skills": [
