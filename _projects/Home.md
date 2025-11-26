@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sitakunj
-description: Designing 55, Malviya Nagar, Jagadhri
+description: Timeless, efficient and homely design
 img: assets/img/home.jpg
 importance: 1
 category: Personal

@@ -3,9 +3,9 @@ layout: post
 title: Graduated from IISER Mohali
 date: 2025-06-17 17:00:00
 description: Last day at IISER
-tags: formatting images
-categories: sample-posts
-thumbnail: assets/img/9.jpg
+tags: personal lifeupdate iiserm
+categories: life-update
+thumbnail: assets/img/convocation.jpg
 images:
   lightbox2: true
   photoswipe: true
@@ -20,9 +20,8 @@ During this time, I was fortunate enough to be able to contribute to multiple bo
 <p>
 My final weeks leading upto this moment were special as well - I travelled a lot of India with my friends - hitting Delhi, Bangalore, Pune and Mumbai in the same trip, visiting a lot of families, and making life-long memories. The final week was especially fun - having the final conversations with people, watching a lot of movies, going for late night walks and waking up in the afternoon. It ended at last, with the Director's dinner, and a ceremonious campus walk with my family - Sanjana, Rochan, Sahil, Farhan, Manvendra, Dhwani, Joshua, Shreyas. Also got some banger photos that day. Coincidentally, Manvendra's birthday fell on the same day as convocation, so we went out for dinner - only to run into Shreyas' parents at the same restaurant - who very generously sent over a bottle of scotch to our table. 
 <p>
-I said my farewells to everyone slowly, one by one. Promises and plans were made to visit and call. Knowing my friends, I know in the end it will be Shreyas and me who have to do the planning. But hey, Joshua will get married soon so we have that to look forward to.
+I said my farewells to everyone slowly, one by one. Promises and plans were made to visit and call. Knowing my friends, I know in the end it will be Shreyas and me who have to do the planning. Thankfully, Joshua will get married soon so we have that to look forward to.
 
-## [Spotlight JS](https://nextapps-de.github.io/spotlight/)
 
 <!-- Group 1 -->
 <div class="spotlight-group">
