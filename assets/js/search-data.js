@@ -44,11 +44,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Recos/";
           },
-        },{id: "post-we-39-re-back-at-iisc",
+        },{id: "post-the-interlude",
         
-          title: "We&#39;re back at IISc",
+          title: "The Interlude",
         
-        description: "Back to QLabs for a third time lol",
+        description: "A break from the mundane",
         section: "Posts",
         handler: () => {
           
@@ -111,7 +111,7 @@ ninja.data = [{
               window.location.href = "/projects/Graphics/";
             },},{id: "projects-sitakunj",
           title: 'Sitakunj',
-          description: "Designing 55, Malviya Nagar, Jagadhri",
+          description: "Timeless, efficient and homely design",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Home/";
             },},{id: "projects-impedance-setup",
