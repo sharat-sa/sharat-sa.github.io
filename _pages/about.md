@@ -22,11 +22,10 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am a graduate student working on electrochemical characterisation of high performance materials. I am currently working with my longtime guide Professor Naga Phani at the Indian Institute of Science, where we are wrapping up studies exploring charge transport in All-Solid-State Batteries. From March 2026, I will be pursuing a PhD with Prof Tong Li at the Center for Interface-Dominated High Performance Materials at Ruhr University Bochum; where I will be combining electrochemical and 
+I am a graduate student working on electrochemical characterisation of high performance materials. Currently, I am working with Professor Naga Phani at the Indian Institute of Science, where we are wrapping up studies exploring transport pocesses in All-Solid-State Batteries. From March 2026, I will be pursuing a doctorate with Prof Tong Li at the Center for Interface-Dominated High Performance Materials at Ruhr University Bochum; where I will be studying kinetics at chemically complex interfaces in lithium-metal batteries.
 
-
-with electrochemical analysis (recently - batteries), and love design, literature, technology and journalism. A majority of my (non-academic) published work can be found at <a href='https://manthanmagazine.wordpress.com'>Manthan</a>, with which I was associated with till June 2025 (when I graduated from IISER-Mohali, my alma-mater), and will soon be translating my skills in re-invigorating <a href='https://sites.google.com/view/inventa23/'>Inventa</a>. I am also exceptionally proud of setting up the <a href='https://web.iisermohali.ac.in/web/students/webpages/srmc.html'>Student-Run-Mess</a> at IISER-Mohali.
-
+<p>
+Outside of materials research, I am interested in design, literature, technology and journalism. A majority of my (non-academic) published work can be found at <a href='https://manthanmagazine.wordpress.com'>Manthan</a>, with which I was associated with till June 2025 (when I graduated from IISER-Mohali, my alma-mater), and will soon be translating my skills in re-invigorating <a href='https://sites.google.com/view/inventa23/'>Inventa</a>. I am also exceptionally proud of setting up the <a href='https://web.iisermohali.ac.in/web/students/webpages/srmc.html'>Student-Run-Mess</a> at IISER-Mohali.
 <p>
 I am guided by the following principles - sustainable & <i>equitable</i> development, application of the scientific temper to guide self & society, and free & open science and technology. I love to engage at the intersection of science and society - resulting in my work with policy and science communication. My research interests (and especially why I work on materials, can be found on the <a href='https://sharat-sa.github.io/Interests/'>Research Interests</a> page). Outside of lab, you can find me gardening, running, reading, or in the gym. I also love fusion indie music, and recently - rock and alt.
 <p>

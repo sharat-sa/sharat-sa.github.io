@@ -22,7 +22,6 @@ My final weeks leading upto this moment were special as well - I travelled a lot
 <p>
 I said my farewells to everyone slowly, one by one. Promises and plans were made to visit and call. Knowing my friends, I know in the end it will be Shreyas and me who have to do the planning. Thankfully, Joshua will get married soon so we have that to look forward to.
 
-
 <!-- Group 1 -->
 <div class="spotlight-group">
     <a class="spotlight" href="https://cdn.photoswipe.com/photoswipe-demo-images/photos/1/img-2500.jpg">
