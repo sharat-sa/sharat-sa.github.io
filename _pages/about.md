@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>B209, SSCU</p>
-    <p>Chemical Sciences Building</p>
-    <p>IISc, Bengaluru</p>
+    <p>Jagadhri</p>
+    <p>India</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,7 +21,7 @@ latest_posts:
   limit: 5 # leave blank to include all the blog posts
 ---
 
-I am a graduate student working on electrochemical characterisation of high performance materials. Previously, I worked with Professor Naga Phani at the Indian Institute of Science in developing novel methods for interfacial characterisation of (solid-state) metal-anode batteries. From August, I will be joining the Cockrell School of Engineering at UT Austin as a doctoral student, where this research would be continued. Currently I am working as a part-time interior designer and full time vacationer.
+I am a materials researcher working on electrochemical characterisation of high performance materials. Previously, I worked with methods development for interfacial characterisation of (solid-state) metal-anode batteries. Starting September, I will be continuing my research with solid-state batteries at UT Austin as a doctoral student. 
 <p>
 Outside of materials research, I am interested in design, literature, technology and journalism. A majority of my (non-academic) published work can be found at <a href='https://manthanmagazine.wordpress.com'>Manthan</a>, with which I was associated with till June 2025 (when I graduated from IISER-Mohali, my alma-mater). I am also exceptionally proud of setting up the <a href='https://web.iisermohali.ac.in/web/students/webpages/srmc.html'>Student-Run-Mess</a> at IISER-Mohali, with which I continue to be associated.
 <p>
