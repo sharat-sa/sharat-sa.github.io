@@ -44,18 +44,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/Recos/";
           },
-        },{id: "post-the-interlude",
-        
-          title: "The Interlude",
-        
-        description: "A break from the mundane",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/Blog/2025/iisc/";
-          
-        },
-      },{id: "post-gyaan-amp-goodbyes-sharat-sa-manthan",
+        },{id: "post-gyaan-amp-goodbyes-sharat-sa-manthan",
         
           title: 'Gyaan &amp; Goodbyes: Sharat SA – Manthan <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
@@ -64,17 +53,6 @@ ninja.data = [{
         handler: () => {
           
             window.open("https://manthanmagazine.wordpress.com/2025/07/26/gyaan-goodbyes-sharat-sa/", "_blank");
-          
-        },
-      },{id: "post-graduated-from-iiser-mohali",
-        
-          title: "Graduated from IISER Mohali",
-        
-        description: "Last day at IISER",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/Blog/2025/graduation/";
           
         },
       },{id: "post-the-question-of-gendered-segregation-at-iiser-mohali-manthan",
@@ -109,11 +87,6 @@ ninja.data = [{
           description: "Batteries media",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Graphics/";
-            },},{id: "projects-sitakunj",
-          title: 'Sitakunj',
-          description: "Timeless, efficient and homely design",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/Home/";
             },},{id: "projects-impedance-setup",
           title: 'Impedance Setup',
           description: "How to take good quality EIS measurements?",
